@@ -1,0 +1,13 @@
+1 step-> "first open the browser"
+
+2 step-> http://anomor.com
+
+3 step-> register in this websites
+
+4 step-> copy clon links from home page
+ 
+5 step-> send this link to victimes
+
+6 step-> then open my victimes page from this website 
+
+7 step-> in this page there are rows and columns which show username and password
